@@ -16,6 +16,8 @@
     <groupId>com.wavefront</groupId>
     <artifactId>shopping</artifactId>
     <version>2.6.2</version>
+    <packaging>jar</packaging>
+
 
     <dependencies>
         <dependency>
