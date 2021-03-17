@@ -4,7 +4,7 @@
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
+   
     <groupId>com.wavefront</groupId>
     <artifactId>observability-sample-app</artifactId>
     <packaging>pom</packaging>
@@ -14,13 +14,7 @@
 
     <modules>
         <module>shopping</module>
-        <module>styling</module>
-        <module>printing</module>
-        <module>packaging</module>
-        <module>delivery</module>
-        <module>notification</module>
         <module>common</module>
-        <module>loadgen</module>
     </modules>
 
     <properties>
